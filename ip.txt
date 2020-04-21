@@ -1,0 +1,2 @@
+t-2.compute.amazonaws.com
+18.225.35.104
