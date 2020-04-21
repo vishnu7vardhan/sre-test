@@ -7,3 +7,23 @@ docker build -t flask-python:latest .
 
 docker run -d -p 5000:5000 flask-python
       
+      
+      
+     
+     
+***********************************
+
+#AWS instance launch log
+
+Your instances are now launching
+The following instance launches have been initiated: i-0d55c7320ed483856 Hide launch log
+Creating security groups
+ 
+Successful (sg-0f0b65260a906f069)
+Authorizing inbound rules
+ 
+Successful
+Initiating launches
+ 
+Successful
+Launch initiation complete
